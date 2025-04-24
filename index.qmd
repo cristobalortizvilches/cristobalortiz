@@ -1,0 +1,15 @@
+---
+title: "Cristóbal Ortiz Vilches"
+image: photo-cov.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cristobalortizvilches
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cristobalortizvilches/
+---
+
+Soy sociólogo con formación en la Universidad de Chile y Magíster en Desarrollo Urbano por la Pontificia Universidad Católica de Chile. Mi investigación se centra en los efectos de la desigualdad socioespacial en las decisiones de los hogares y en las dinámicas colectivas.
