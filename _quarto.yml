@@ -5,18 +5,23 @@ project:
 website:
   title: "Cristóbal Ortiz Vilches"
   navbar:
+    right: 
+     - text: About me
+       menu:
+         - text: "CV"
+           file: cv-cov.qmd
+         - text: "Values"
+         - text: "Archive"
+         - text: "Notes"
+     - text: Research
+       menu:
+         - text: "Publications"
+         - text: "Projects"
+         - text: "Outreach"
+         - text: "Achievments"
     left: 
-      - text: "Home"
-        file: index.qmd
-      - text: "CV"
-        file: cv-cov.qmd
       - text: "Works"
         file: works.qmd
-    right:
-      - icon: github
-        href: https://github.com/cristobalortizvilches
-      - icon: linkedin
-        href: https://www.linkedin.com/in/cristobalortizvilches/
 format:
   html:
     theme:

@@ -1,12 +1,19 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "My values"
+author: "Cristóbal Ortiz Vilches"
 date: "2025-04-20"
-categories: [news]
+categories: [news, myself]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Soy una investigador social proveniente de una vivienda social en la periferia del Gran Santiago, Chile. Estudié en el Liceo Nacional de Maipú y luego me formé como sociólogo en la Universidad de Chile. Mi experiencia vital en un barrio desavantajado y fuertemente estigmatizado, contribuyeron a desarrollar un profundo interés por la sociología crítica y los estudios urbanos. Desde entonces, me propuse comprender científicamente las desigualdades vividas en la ciudad, lo que me llevó a obtener un Magíster en Desarrollo Urbano en la Pontificia Universidad Católica de Chile.
+
+Si bien crecí en el "barrio bajo", mi familia se encargó de cuidarme de los males de "la calle". Ellos me educaron, fomentando en mí el gusto por la ciencia, la historia y la naturaleza. Pero más importante, me transmitieron la ética del esfuerzo, la ambición por la excelencia y la convicción de nunca olvidar mi origen social. En conjunto, el amor por el conocimiento y los valores familiares, me orientan en la investigación científica y el quehacer político.
+
+Principios de investigación científica:
+
+-   Sociología crítica
+-   Ciencia abierta
+-   Rigor teórico y conceptual
+-   Análisis empírico
 
 ![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

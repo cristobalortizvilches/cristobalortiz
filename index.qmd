@@ -10,6 +10,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/cristobalortizvilches/
+    - icon: envelope
+      href: mailto:cristobalortizvi@gmail.com
 ---
 
-I am a sociologist from the University of Chile and hold a Master’s degree in Urban Development from the Pontifical Catholic University of Chile. My research explores the effects of sociospatial inequality on household decision-making and collective ties. To address these questions, I draw on critical urban sociology and use programming and statistical tools in RStudio.
+I am a sociologist from the University of Chile and hold a Master’s degree in Urban Development from the Pontifical Catholic University of Chile. My research explores the effects of sociospatial inequality on household decision-making and collective ties. To address these questions, I draw on critical urban sociology and use programming and statistical tools in RStudio. My motivation is to promote spatial justice, secure the right to the city, and reimagine social divisions as common places.

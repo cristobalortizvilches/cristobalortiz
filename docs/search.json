@@ -4,7 +4,7 @@
     "href": "works.html",
     "title": "website-cov",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy values\n\n\n\nnews\n\nmyself\n\n\n\n\n\n\n\n\n\nApr 20, 2025\n\n\nCristóbal Ortiz Vilches\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -18,13 +18,13 @@
     "href": "index.html",
     "title": "Cristóbal Ortiz Vilches",
     "section": "",
-    "text": "I am a sociologist from the University of Chile and hold a Master’s degree in Urban Development from the Pontifical Catholic University of Chile. My research explores the effects of sociospatial inequality on household decision-making and collective ties. To address these questions, I draw on critical urban sociology and use programming and statistical tools in RStudio."
+    "text": "I am a sociologist from the University of Chile and hold a Master’s degree in Urban Development from the Pontifical Catholic University of Chile. My research explores the effects of sociospatial inequality on household decision-making and collective ties. To address these questions, I draw on critical urban sociology and use programming and statistical tools in RStudio. My motivation is to promote spatial justice, secure the right to the city, and reimagine social divisions as common places."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "My values",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Soy una investigador social proveniente de una vivienda social en la periferia del Gran Santiago, Chile. Estudié en el Liceo Nacional de Maipú y luego me formé como sociólogo en la Universidad de Chile. Mi experiencia vital en un barrio desavantajado y fuertemente estigmatizado, contribuyeron a desarrollar un profundo interés por la sociología crítica y los estudios urbanos. Desde entonces, me propuse comprender científicamente las desigualdades vividas en la ciudad, lo que me llevó a obtener un Magíster en Desarrollo Urbano en la Pontificia Universidad Católica de Chile.\nSi bien crecí en el “barrio bajo”, mi familia se encargó de cuidarme de los males de “la calle”. Ellos me educaron, fomentando en mí el gusto por la ciencia, la historia y la naturaleza. Pero más importante, me transmitieron la ética del esfuerzo, la ambición por la excelencia y la convicción de nunca olvidar mi origen social. En conjunto, el amor por el conocimiento y los valores familiares, me orientan en la investigación científica y el quehacer político.\nPrincipios de investigación científica:\n\nSociología crítica\nCiencia abierta\nRigor teórico y conceptual\nAnálisis empírico"
   }
 ]
